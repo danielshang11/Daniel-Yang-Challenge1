@@ -85,7 +85,7 @@ main {
     margin-left: 20px;
 }
 
-.service {
+.allservices {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,11 +94,11 @@ main {
     color: #ffffff;
 }
 
-.service img {
+.allservices img {
         max-height: 200px;
 }
 
-.service h2 {
+.allservices h2 {
         margin-bottom: 20px;
         font-size: 36px;
 }
@@ -107,7 +107,7 @@ main {
 /* aside benefit */
 
 
-.benefits {
+.advantages {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -118,18 +118,18 @@ main {
     background-color: #2589bd;
 }
 
-.benefit {
+.advantage {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-.benefit h3 {
+.advantage h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.advantage img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
