@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-![alt text](./Develop/assets/images/Daniel.png)
+![alt text](./assets/images/Daniel.png)
 
 ## Credits
 
