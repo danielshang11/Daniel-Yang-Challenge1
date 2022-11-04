@@ -1,12 +1,27 @@
 # Daniel-Yang-Challenge1
 
-change the element:
-1.change div on html to header(then we dont have to class 1 by 1)
-2.change div on css (everything under header will follow css and be the same)
-3.change the "content" as main picture class
-4.change the original ".content" to main as a element
-5.div to main
-6.div to section to eash function
-7.merge ".benefit-lead", ".benefit-brand", and ".benefit-cost" in to "benefit"
-8.merage ".search-engine-optimization",".online-reputation-management", and ".social-media-marketing" into "service", also the img and h2 as well
+## Description
+
+The major purpose for Module 1 Challenge is to make the HTML and CSS codes more cleaner, and improve the structure and arrange the elements in order by structure.
+The original codes contains a lots of duplicate codes and elements, so I renamed most of the elements and merge the css code to make it cleaner and easier for other user to see and also add the remark above each section to show this is "main", and now we are at "aside", etc.
+I've learned alot about the debuging the unnecessary code by read the html codes in the beginning to see the how structure, and follow the codes to find where the class elements in css code. Therefore, I am able to optimize the css code. Also, I looked back into the past lesson professor taught and googled anything if I have questions.
+
+## Installation
+
+N/A
+
+## Usage
+
+![alt text](./Develop/assets/images/Daniel.png)
+
+## Credits
+
+N/A
+
+## License
+
+Refer the License in Repo
+
+## Link
+
 
