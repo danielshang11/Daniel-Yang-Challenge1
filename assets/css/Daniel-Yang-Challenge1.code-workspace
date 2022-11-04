@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../mini-project"
+		},
+		{
+			"path": "../../../../../../Downloads/02-Stu_Media-Query-Screen"
+		},
+		{
+			"path": "../../../../../../Downloads/08-Stu_Flexbox-Placement"
+		},
+		{
+			"path": "../../../../../../Downloads/06-Stu_Responsive-Design"
+		},
+		{
+			"path": "../../../../../../Downloads/04-Stu_Flexbox-Layout"
+		},
+		{
+			"path": "../../../../../../Downloads/12-Stu_CSS-Resets"
+		},
+		{
+			"path": "../../../../../../Downloads/10-Stu_Box-Styling"
+		},
+		{
+			"path": "../../../../../../Downloads/14-Stu_Typography"
+		},
+		{
+			"path": "../../../../../../Downloads/16-Stu_Pseudo-Classes"
+		}
+	],
+	"settings": {}
+}
